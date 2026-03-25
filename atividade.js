@@ -214,7 +214,7 @@
 
 //19
 // let pessoa3 = {
-//     nome: "Ana",
+//     nome: "Luany",
 //     endereco: {
 //         cidade: "Caxias do Sul",
 //         estado: "RS"
@@ -252,8 +252,8 @@
 //     }
 // };
 
-// sistema.adicionarUsuario("Ana");
-// sistema.adicionarUsuario("Ana");
+// sistema.adicionarUsuario("Lauany");
+// sistema.adicionarUsuario("Lauany");
 // sistema.listarUsuarios();
 
 
@@ -301,8 +301,8 @@
 //     }
 // };
 
-// escola.adicionarAluno("Ana", [8, 7, 9]);
-// escola.adicionarAluno("João", [5, 6, 4]);
+// escola.adicionarAluno("Lauany", [8, 7, 9]);
+// escola.adicionarAluno("Laura", [5, 6, 4]);
 
 // console.log(escola.aprovados());
 
@@ -333,6 +333,6 @@
 // banco.criarConta("Ana", 1000);
 // banco.criarConta("João", 500);
 
-// banco.transferir("Ana", "João", 200);
+// banco.transferir("Lauany", "Isa", 200);
 
 // console.log(banco.contas);
